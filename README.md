@@ -1,2 +1,4 @@
-# Random-Number-Guess
-This is random number guess game 
+This Water Sanke Gun game using Python
+This is my first Repository
+<br>
+Author-aditya.Hubballi
